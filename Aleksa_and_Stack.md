@@ -1,6 +1,6 @@
 #### Условие задачи:
 
-![Condition](./src/Aleksa_and_Stack.png)
+![Condition](./src/Aleksa_And_Stack.png)
 
 Обязательная ссылка на [CodeForces](https://codeforces.com/contest/1878/problem/B?locale=ru)
 
