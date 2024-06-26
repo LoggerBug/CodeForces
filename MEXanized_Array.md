@@ -22,17 +22,17 @@ static void Main()
             Console.WriteLine(-1);
             continue;
         }
-        
-        int tempSum = 0;
+
+        int sum = 0;
         for (int j = 0; j < k; j++) 
-            tempSum += j;
+            sum += j;
         
         if (x == k)
-            tempSum += (x - 1) * (n - k);
+            sum += (x - 1) * (n - k);
         else 
-            tempSum += x * (n - k);
+            sum += x * (n - k);
         
-        Console.WriteLine(tempSum);
+        Console.WriteLine(sum);
     }
 }
 ```
